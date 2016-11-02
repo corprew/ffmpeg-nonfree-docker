@@ -5,6 +5,8 @@ Dockerfile for ubuntu16.04 ffmpeg which can be used to build mp3 and m4a files a
 
 Use this to build other things on top of or use the default bash command to use ffmpeg as per usual.
 
+This version uses as many OS packages as possible to avoid getting permanent version fixed downloads.
+
 # ffmpeg
 
 some details on the provided ffmpeg.
